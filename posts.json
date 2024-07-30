@@ -1,0 +1,6 @@
+{
+  "posts": [
+    { "day": "Monday", "task": "React", "id": "0.9699487939669043" },
+    { "day": "Tuesday", "task": "Node.js", "id": "0.19672364659344876" }
+  ]
+}
