@@ -1,7 +1,3 @@
 {
-  "posts": [
-    { "day": "Wed", "task": "Try something new", "id": "0.8831819492361044" },
-    { "day": "Tuesday", "task": "Sass", "id": "0.8560282411252673" },
-    { "day": "Monday", "task": "React", "id": "0.9699487939669043" }
-  ]
+  "posts": [{ "day": "Monday", "task": "React", "id": "0.9699487939669043" }]
 }
